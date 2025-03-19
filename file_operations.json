@@ -1,0 +1,362 @@
+[
+  {
+    "src": "C:\\Users\\b0052\\Desktop\\mcss_win-x86-64_v13.9.1\\mcss.exe",
+    "dest": "E:\\mcss.exe",
+    "size": 201469066,
+    "timestamp": "2025-03-19T01:18:49.224900"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Roaming\\Msty\\lib\\ollama\\cublas64_11.dll",
+    "dest": "E:\\cublas64_11.dll",
+    "size": 113725888,
+    "timestamp": "2025-03-19T01:18:49.224907"
+  },
+  {
+    "src": "C:\\Users\\b0052\\Downloads\\Win11_24H2_English_x64.iso",
+    "dest": "E:\\Win11_24H2_English_x64.iso",
+    "size": 5819484160,
+    "timestamp": "2025-03-19T01:18:49.224909"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Local\\Packages\\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\\LocalState\\ext4.vhdx",
+    "dest": "E:\\ext4.vhdx",
+    "size": 2382364672,
+    "timestamp": "2025-03-19T01:18:49.224911"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-170370233dd5c5415250a2ecd5c71586352850729062ccef1496385647293868",
+    "dest": "E:\\sha256-170370233dd5c5415250a2ecd5c71586352850729062ccef1496385647293868",
+    "size": 4108916992,
+    "timestamp": "2025-03-19T01:18:49.224913"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-6a0746a1ec1aef3e7ec53868f220ff6e389f6f8ef87a01d77c96807de94ca2aa",
+    "dest": "E:\\sha256-6a0746a1ec1aef3e7ec53868f220ff6e389f6f8ef87a01d77c96807de94ca2aa",
+    "size": 4661211424,
+    "timestamp": "2025-03-19T01:18:49.224915"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Roaming\\Msty\\models\\blobs\\sha256-ad361f123f771269d7eb345075f36ae03c20d7d8ffc7acd8d2db88da3b1ed846",
+    "dest": "E:\\sha256-ad361f123f771269d7eb345075f36ae03c20d7d8ffc7acd8d2db88da3b1ed846",
+    "size": 3616087104,
+    "timestamp": "2025-03-19T01:18:49.224917"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-8d55d9b7c696394ceada5f82110786fdc7d8cb81d6c74a17a0e9bf620af96a84",
+    "dest": "E:\\sha256-8d55d9b7c696394ceada5f82110786fdc7d8cb81d6c74a17a0e9bf620af96a84",
+    "size": 4683074080,
+    "timestamp": "2025-03-19T01:18:49.224918"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesSUBZERO.pak",
+    "dest": "E:\\NMSARC.TexBiomesSUBZERO.pak",
+    "size": 931521232,
+    "timestamp": "2025-03-19T01:18:49.224920"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexAtlas.pak",
+    "dest": "E:\\NMSARC.TexAtlas.pak",
+    "size": 898288176,
+    "timestamp": "2025-03-19T01:18:49.224922"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesBURNT.pak",
+    "dest": "E:\\NMSARC.TexBiomesBURNT.pak",
+    "size": 851373344,
+    "timestamp": "2025-03-19T01:18:49.224924"
+  },
+  {
+    "src": "C:\\Users\\b0052\\Desktop\\crowd\\venv\\Lib\\site-packages\\torch\\lib\\dnnl.lib",
+    "dest": "E:\\dnnl.lib",
+    "size": 653534016,
+    "timestamp": "2025-03-19T01:18:49.224926"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesIRRADIATED.pak",
+    "dest": "E:\\NMSARC.TexBiomesIRRADIATED.pak",
+    "size": 539578544,
+    "timestamp": "2025-03-19T01:18:49.224928"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-2af3b81862c6be03c769683af18efdadb2c33f60ff32ab6f83e42c043d6c7816",
+    "dest": "E:\\sha256-2af3b81862c6be03c769683af18efdadb2c33f60ff32ab6f83e42c043d6c7816",
+    "size": 637699456,
+    "timestamp": "2025-03-19T01:18:49.224930"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.MeshPlanetBIOMES.pak",
+    "dest": "E:\\NMSARC.MeshPlanetBIOMES.pak",
+    "size": 1208960112,
+    "timestamp": "2025-03-19T01:18:49.224931"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.MeshCommon.pak",
+    "dest": "E:\\NMSARC.MeshCommon.pak",
+    "size": 672612352,
+    "timestamp": "2025-03-19T01:18:49.224933"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-72d6f08a42f656d36b356dbe0920675899a99ce21192fd66266fb7d82ed07539",
+    "dest": "E:\\sha256-72d6f08a42f656d36b356dbe0920675899a99ce21192fd66266fb7d82ed07539",
+    "size": 624434368,
+    "timestamp": "2025-03-19T01:18:49.224935"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Roaming\\Msty\\models\\blobs\\sha256-aabd4debf0c8f08881923f2c25fc0fdeed24435271c2b3e92c4af36704040dbc",
+    "dest": "E:\\sha256-aabd4debf0c8f08881923f2c25fc0fdeed24435271c2b3e92c4af36704040dbc",
+    "size": 1117320512,
+    "timestamp": "2025-03-19T01:18:49.224937"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-828125e28bf46a219fa4f75b6982cb0c41fd9187467abe91c9b175287945b7ef",
+    "dest": "E:\\sha256-828125e28bf46a219fa4f75b6982cb0c41fd9187467abe91c9b175287945b7ef",
+    "size": 531068288,
+    "timestamp": "2025-03-19T01:18:49.224939"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-aabd4debf0c8f08881923f2c25fc0fdeed24435271c2b3e92c4af36704040dbc",
+    "dest": "E:\\sha256-aabd4debf0c8f08881923f2c25fc0fdeed24435271c2b3e92c4af36704040dbc_1742367464",
+    "size": 1117320512,
+    "timestamp": "2025-03-19T01:18:49.224941"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-6a77366395772462c84f0c4d226ac404674327cbe78c01e4391cc7e0c698851e",
+    "dest": "E:\\sha256-6a77366395772462c84f0c4d226ac404674327cbe78c01e4391cc7e0c698851e",
+    "size": 986048512,
+    "timestamp": "2025-03-19T01:18:49.224943"
+  },
+  {
+    "src": "C:\\Users\\b0052\\Desktop\\training\\venv\\Lib\\site-packages\\torch\\lib\\dnnl.lib",
+    "dest": "E:\\dnnl_1742367513.lib",
+    "size": 653534016,
+    "timestamp": "2025-03-19T01:18:49.224945"
+  },
+  {
+    "src": "C:\\$SysReset\\Logs\\setupact.log",
+    "dest": "E:\\setupact.log",
+    "size": 145593948,
+    "timestamp": "2025-03-19T01:18:49.224946"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Local\\Discord\\packages\\Discord-1.0.9183-full.nupkg",
+    "dest": "E:\\Discord-1.0.9183-full.nupkg",
+    "size": 114923622,
+    "timestamp": "2025-03-19T01:18:49.224948"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.gradle\\caches\\8.11.1\\generated-gradle-jars\\gradle-api-8.11.1.jar",
+    "dest": "E:\\gradle-api-8.11.1.jar",
+    "size": 185747628,
+    "timestamp": "2025-03-19T01:18:49.224950"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.gradle\\caches\\8.10\\generated-gradle-jars\\gradle-api-8.10.jar",
+    "dest": "E:\\gradle-api-8.10.jar",
+    "size": 180016384,
+    "timestamp": "2025-03-19T01:18:49.224952"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.gradle\\caches\\8.9\\generated-gradle-jars\\gradle-api-8.9.jar",
+    "dest": "E:\\gradle-api-8.9.jar",
+    "size": 178450995,
+    "timestamp": "2025-03-19T01:18:49.224954"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.gradle\\caches\\8.11.1\\transforms\\861004acddba2701e93ae76fc6f706a8\\transformed\\instrumented\\instrumented-kotlin-compiler-embeddable-2.0.20.jar",
+    "dest": "E:\\instrumented-kotlin-compiler-embeddable-2.0.20.jar",
+    "size": 162643728,
+    "timestamp": "2025-03-19T01:18:49.224956"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesNOXIOUS.pak",
+    "dest": "E:\\NMSARC.TexBiomesNOXIOUS.pak",
+    "size": 514704752,
+    "timestamp": "2025-03-19T01:18:49.224957"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesBARREN.pak",
+    "dest": "E:\\NMSARC.TexBiomesBARREN.pak",
+    "size": 433728816,
+    "timestamp": "2025-03-19T01:18:49.224959"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesCAVE.pak",
+    "dest": "E:\\NMSARC.TexBiomesCAVE.pak",
+    "size": 386970384,
+    "timestamp": "2025-03-19T01:18:49.224961"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesJUNGLE.pak",
+    "dest": "E:\\NMSARC.TexBiomesJUNGLE.pak",
+    "size": 346951232,
+    "timestamp": "2025-03-19T01:18:49.224963"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesDESOLATE.pak",
+    "dest": "E:\\NMSARC.TexBiomesDESOLATE.pak",
+    "size": 344142480,
+    "timestamp": "2025-03-19T01:18:49.224965"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureTRICERATOPSRIG.pak",
+    "dest": "E:\\NMSARC.TexCreatureTRICERATOPSRIG.pak",
+    "size": 333420400,
+    "timestamp": "2025-03-19T01:18:49.224966"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureARTHROPOD.pak",
+    "dest": "E:\\NMSARC.TexCreatureARTHROPOD.pak",
+    "size": 332681408,
+    "timestamp": "2025-03-19T01:18:49.224968"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureANTELOPERIG.pak",
+    "dest": "E:\\NMSARC.TexCreatureANTELOPERIG.pak",
+    "size": 244342224,
+    "timestamp": "2025-03-19T01:18:49.224970"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesUNDERWATER.pak",
+    "dest": "E:\\NMSARC.TexBiomesUNDERWATER.pak",
+    "size": 242254704,
+    "timestamp": "2025-03-19T01:18:49.224972"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesHQFROZEN.pak",
+    "dest": "E:\\NMSARC.TexBiomesHQFROZEN.pak",
+    "size": 224098880,
+    "timestamp": "2025-03-19T01:18:49.224974"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureFISH.pak",
+    "dest": "E:\\NMSARC.TexCreatureFISH.pak",
+    "size": 209600960,
+    "timestamp": "2025-03-19T01:18:49.224975"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureSEAHORSE.pak",
+    "dest": "E:\\NMSARC.TexCreatureSEAHORSE.pak",
+    "size": 205460416,
+    "timestamp": "2025-03-19T01:18:49.224977"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Local\\NomNom\\packages\\NomNom-5.50.1-win-x64-stable-full.nupkg",
+    "dest": "E:\\NomNom-5.50.1-win-x64-stable-full.nupkg",
+    "size": 197967115,
+    "timestamp": "2025-03-19T01:18:49.224979"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesSWAMP.pak",
+    "dest": "E:\\NMSARC.TexBiomesSWAMP.pak",
+    "size": 185027984,
+    "timestamp": "2025-03-19T01:18:49.224981"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureTREXRIG.pak",
+    "dest": "E:\\NMSARC.TexCreatureTREXRIG.pak",
+    "size": 181306752,
+    "timestamp": "2025-03-19T01:18:49.224982"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexPlanetNPCS.pak",
+    "dest": "E:\\NMSARC.TexPlanetNPCS.pak",
+    "size": 174068752,
+    "timestamp": "2025-03-19T01:18:49.224984"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesWEIRD.pak",
+    "dest": "E:\\NMSARC.TexBiomesWEIRD.pak",
+    "size": 148502000,
+    "timestamp": "2025-03-19T01:18:49.224986"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureCOWRIG.pak",
+    "dest": "E:\\NMSARC.TexCreatureCOWRIG.pak",
+    "size": 148142384,
+    "timestamp": "2025-03-19T01:18:49.224988"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesLIVINGSHIP.pak",
+    "dest": "E:\\NMSARC.TexBiomesLIVINGSHIP.pak",
+    "size": 138025056,
+    "timestamp": "2025-03-19T01:18:49.224989"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesFROZEN.pak",
+    "dest": "E:\\NMSARC.TexBiomesFROZEN.pak",
+    "size": 110555792,
+    "timestamp": "2025-03-19T01:18:49.224991"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexBiomesHQLUSH.pak",
+    "dest": "E:\\NMSARC.TexBiomesHQLUSH.pak",
+    "size": 107597424,
+    "timestamp": "2025-03-19T01:18:49.224993"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Roaming\\Code\\CachedExtensionVSIXs\\redhat.java-1.40.0-win32-x64",
+    "dest": "E:\\redhat.java-1.40.0-win32-x64",
+    "size": 125610618,
+    "timestamp": "2025-03-19T01:18:49.224995"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureSANDWORM.pak",
+    "dest": "E:\\NMSARC.TexCreatureSANDWORM.pak",
+    "size": 374393136,
+    "timestamp": "2025-03-19T01:18:49.224997"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.MeshMisc.pak",
+    "dest": "E:\\NMSARC.MeshMisc.pak",
+    "size": 330136080,
+    "timestamp": "2025-03-19T01:18:49.224998"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.Shaders.pak",
+    "dest": "E:\\NMSARC.Shaders.pak",
+    "size": 257994464,
+    "timestamp": "2025-03-19T01:18:49.225000"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.TexCreatureCATRIG.pak",
+    "dest": "E:\\NMSARC.TexCreatureCATRIG.pak",
+    "size": 250814944,
+    "timestamp": "2025-03-19T01:18:49.225002"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\Content\\GAMEDATA\\PCBANKS\\NMSARC.MeshPlanetCREATURES.pak",
+    "dest": "E:\\NMSARC.MeshPlanetCREATURES.pak",
+    "size": 124545120,
+    "timestamp": "2025-03-19T01:18:49.225004"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-c5396e06af294bd101b30dce59131a76d2b773e76950acc870eda801d3ab0515",
+    "dest": "E:\\sha256-c5396e06af294bd101b30dce59131a76d2b773e76950acc870eda801d3ab0515",
+    "size": 397807936,
+    "timestamp": "2025-03-19T01:18:49.225005"
+  },
+  {
+    "src": "C:\\Users\\b0052\\.ollama\\models\\blobs\\sha256-970aa74c0a90ef7482477cf803618e776e173c007bf957f635f1015bfcfef0e6",
+    "dest": "E:\\sha256-970aa74c0a90ef7482477cf803618e776e173c007bf957f635f1015bfcfef0e6",
+    "size": 274290656,
+    "timestamp": "2025-03-19T01:18:49.225007"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Local\\pip\\cache\\http-v2\\8\\f\\f\\3\\9\\8ff3936d04da2b0d0952e1998d98d940577d0ff267f1afa11fe34d0d.body",
+    "dest": "E:\\8ff3936d04da2b0d0952e1998d98d940577d0ff267f1afa11fe34d0d.body",
+    "size": 204126475,
+    "timestamp": "2025-03-19T01:18:49.225009"
+  },
+  {
+    "src": "C:\\XboxGames\\No Man's Sky\\7A7853F9-B5FA-42F3-B02E-D57BEACF4293",
+    "dest": "E:\\7A7853F9-B5FA-42F3-B02E-D57BEACF4293",
+    "size": 142491648,
+    "timestamp": "2025-03-19T01:18:49.225011"
+  },
+  {
+    "src": "C:\\Users\\b0052\\AppData\\Local\\Discord\\app-1.0.9186\\Discord.exe",
+    "dest": "E:\\Discord_1742368729.exe",
+    "size": 179798904,
+    "timestamp": "2025-03-19T01:18:54.973278"
+  }
+]
